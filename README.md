@@ -72,6 +72,8 @@ The folders created on the Domain Controller should all show up. A normal domain
 
 ![image](https://github.com/jarrettm98/network-file-sharing-and-permissions-with-active-directory/assets/140662793/b69d8d5e-128c-40d8-800a-511fdbdca3ef)
 
+<h2>Step 2: Set up Permission Access with Active Directory</h2>
+
 Go back to the Domain Controller. Now go to Server Manager>Tools>Active Directory Users and Computers. In the domain container, create a "Security Group" and name it "ACCOUNTANTS"
 
 ![image](https://github.com/jarrettm98/network-file-sharing-and-permissions-with-active-directory/assets/140662793/6804d1d9-5666-426b-9679-42a5459e51c6)
